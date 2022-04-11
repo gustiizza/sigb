@@ -9,7 +9,7 @@
 <body>
 <h2>Universitas Tanjungpura</h2>
 
-<p></p>
+<p>Tata Letak Lokasi Universitas Tanjungpura</p>
 <img src="{{ url('/img/untan.png') }}" alt="Untan">
 <map name="workmap">
     <area shape="circle" coords="337,300,44" href="coffee.htm" onclick="myFunction()">
